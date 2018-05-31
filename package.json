@@ -2,10 +2,14 @@
   "name": "react-baby",
   "version": "1.0.0",
   "description": "A command line tool for generating a lightweight, full stack react application.",
-  "main": "index.js",
+  "preferGlobal": "true",
+  "bin": {
+    "react-baby": "bin/react-baby.js"
+  },
+  "main": "bin/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "babel src --out-dir dist",
+    "build": "babel src --out-dir bin",
     "prepublishOnly": "npm run build"
   },
   "keywords": [
