@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+body {
+	margin: 0;
+}
+.baby-app-wrapper {
+	position: fixed;
+	height: 100%;
+	width: 100%;
+	box-sizing: border-box;
+	background-image: url('../assets/background.jpeg');
+	background: center cover;
+	padding: 40px 20px;
+}
+.baby-app {
+	text-align: center;
+	margin: auto;
+	width: 100%;
+	max-width: 680px;
+	padding: 20px;
+	margin: auto;
+	border: 2px white solid;
+	border-radius: 4px;
+	box-sizing: border-box;
+	background-color: rgba(0,0,0,0.7);
+	color: white;
+	font-family: 'Raleway', sans-serif;
+}
