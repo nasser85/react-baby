@@ -1,2 +1,2 @@
 # React Baby
-### Generate a lightweight, full stack React application boilerplate.
+### Generate a lightweight boilerplate for your full stack React application.
