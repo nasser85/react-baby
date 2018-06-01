@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 var bluebird = require('bluebird');
 var path = require('path');
 var chalk = require('chalk');
