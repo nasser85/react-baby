@@ -1,10 +1,10 @@
 # React Baby
 ### Generate a lightweight boilerplate for your full stack React application.
 <div>
-<img align="left" width="25%" src="https://camo.githubusercontent.com/9c24355bb3afbff914503b663ade7beb341079fa/68747470733a2f2f6e6f64656a732e6f72672f7374617469632f696d616765732f6c6f676f2d6c696768742e737667" >
-<img align="left" width="25%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1024px-React-icon.svg.png" >
-<img align="left" width="25%" src="https://avatars1.githubusercontent.com/u/2105791?s=200&v=4" >
-<img align="left" width="25%" src="https://avatars2.githubusercontent.com/u/29239447?s=200&v=4" >
+<img align="left" width="23%" src="https://camo.githubusercontent.com/9c24355bb3afbff914503b663ade7beb341079fa/68747470733a2f2f6e6f64656a732e6f72672f7374617469632f696d616765732f6c6f676f2d6c696768742e737667" >
+<img align="left" width="23%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1024px-React-icon.svg.png" >
+<img align="left" width="22%" src="https://avatars1.githubusercontent.com/u/2105791?s=200&v=4" >
+<img align="left" width="22%" src="https://avatars2.githubusercontent.com/u/29239447?s=200&v=4" >
 </div>
 
 ## Getting Started
