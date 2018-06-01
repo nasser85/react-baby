@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 import bluebird from 'bluebird';
 import path  from 'path';
 import chalk from 'chalk';
