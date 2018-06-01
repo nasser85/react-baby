@@ -25,22 +25,22 @@ Before you can get your local server running, you must...
 ```bash
 npm install
 ```
-After that you can run any of the following three pre-packaged servers...
+After that you can run any of the following three pre-packaged servers, via *npm scripts*...
 
 #### Webpack Dev Server
 ```bash
-	npm run dev
+npm run dev
 ```
 This command runs ``webpack-dev-server`` and allows for changes to your **front end** to be immediately reflected.
 
 #### Node Dev Server
 ```bash
-	npm run start:dev
+npm run start:dev
 ```
 This command runs ``nodemon`` and allows for changes to your **back end** to be immediately reflected.
 #### Node Production Server
 For production...
 ```bash
-	npm run start
+npm run start
 ```
-*All servers run on port 8080 by default*
+*All servers run on port **8080** by default*
