@@ -4,7 +4,7 @@
   "description": "A command line tool for generating a lightweight, full stack react application.",
   "preferGlobal": "true",
   "bin": {
-    "react-baby": "bin/react-baby.js"
+    "react-baby": "bin/index.js"
   },
   "main": "bin/index.js",
   "scripts": {
