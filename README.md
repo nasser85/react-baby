@@ -6,7 +6,7 @@
 npm install -g react-baby
 ```
 
-## Generating your boilerplate
+## Generating Your Boilerplate
 In your cli simply type...
 ```bash
 react-baby
@@ -20,7 +20,7 @@ react-baby my-project
 ```
 will create a folder named ``my-project``.
 
-## Working with your boilerplate
+## Working With Your Boilerplate
 Before you can get your local server running, you must...
 ```bash
 npm install
