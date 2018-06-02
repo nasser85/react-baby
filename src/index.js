@@ -19,19 +19,12 @@ var newProjectDir = (function () {
 
 var generatorFilesPath = path.join(__dirname, '../react-baby-files');
 
-
 var copyFiles = function () {
     return ncp(generatorFilesPath, newProjectDir);
 };
 
-var renameGitignore = function () {
-    var oldPath = path.join(newProjectDir, 'gitignore.txt');
-    var newPath = path.join(newProjectDir, '.gitignore');
-    return rename(oldPath, newPath);
-};
-
 console.log(chalk.inverse('Building your ') + chalk.black(chalk.bgCyan('React Baby')) + chalk.inverse(' boilerplate...'));
-copyFiles().then(renameGitignore).then(function () {
+copyFiles().then(function () {
     console.log(chalk.inverse('Boilerplate generated successfully!'));
     console.log(chalk.inverse('Project directory @ ') + chalk.black(chalk.bgYellow(newProjectDir)));
 });
