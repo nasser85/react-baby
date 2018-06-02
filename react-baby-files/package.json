@@ -1,7 +1,7 @@
 {
   "name": "react-baby-project",
   "version": "1.0.0",
-  "description": "",
+  "description": "React Baby generated boilerplate",
   "main": "server/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -10,7 +10,7 @@
     "start:dev": "npm run build && nodemon server/index.js --exec babel-node -e js",
     "dev": "webpack-dev-server"
   },
-  "author": "React Baby",
+  "author": "Nasser Abouelazm",
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.3",
