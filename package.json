@@ -1,6 +1,6 @@
 {
   "name": "react-baby",
-  "version": "1.6.0",
+  "version": "1.7.0",
   "description": "A command line tool for generating a lightweight, full stack react application.",
   "preferGlobal": "true",
   "bin": {
